@@ -19,7 +19,11 @@ Este proyecto está diseñado para representar una base de datos de una red soci
   El sistema soporta las siguientes funcionalidades.
   
   -Perfiles estudiantiles: Creación y personalización de perfiles con áreas de estudio, habilidades e intereses.
+  
   -Conexión entre pares: Red de seguimiento y mentorías entre estudiantes avanzados y de primeros semestres.
-  -Publicaciones e interacción: Espacio para compartir recursos, dudas, noticias y memes con sistema de comentarios y reacciones.  
+  
+  -Publicaciones e interacción: Espacio para compartir recursos, dudas, noticias y memes con sistema de comentarios y reacciones. 
+  
   -Grupos e investigaciones: Creación de comunidades de estudio, clubes de interés y proyectos de investigación organizados por los propios alumnos.
+  
   -Eventos y mensajería: Programación de actividades académicas/sociales y chats privados o grupales.
